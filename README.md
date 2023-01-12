@@ -1,4 +1,4 @@
-README
+CustomExecutor.
 This is a custom implementation of the ThreadPoolExecutor class in Java that uses a PriorityBlockingQueue for task prioritization. The class is called CustomExecutor.
 
 The CustomExecutor class provides several additional methods for submitting tasks and gracefully shutting down the executor.
